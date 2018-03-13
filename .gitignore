@@ -1,0 +1,21 @@
+/build
+/logs
+
+# Visual Studio
+/.vs
+/Debug
+/Obj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio Code
+*.db
+/.vscode
+debug.log
+
+*.bin
+
+#python
+*.pyc
